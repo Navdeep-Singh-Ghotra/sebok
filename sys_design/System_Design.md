@@ -38,6 +38,6 @@ Task : Design a news feed app, Design a news feed that provides a user with a li
 
 <details>
 
-
+![alt text](image.png)
 </details>
 </details>
