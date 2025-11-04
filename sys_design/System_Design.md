@@ -36,6 +36,8 @@ Task : Design a news feed app, Design a news feed that provides a user with a li
 
 5. High availability is required for writes. High availability for reads is a bonus but not required, as users can cache old news on their devices.
 
+<<--To-be-continued>>
+
 <details>
 
 ```mermaid
